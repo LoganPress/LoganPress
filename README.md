@@ -7,7 +7,7 @@ I am a Computer Science student who is passionate about tackling complex issues 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 Add more later -->
 
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganPress&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganPress&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **LoganPress/LoganPress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
